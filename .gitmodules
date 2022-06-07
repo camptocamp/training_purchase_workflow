@@ -12,3 +12,8 @@
 	path = camptocamp/smartcamp_core
 	url = git@github.com:camptocamp/smartcamp_core.git
 	branch = 15.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 15.0
